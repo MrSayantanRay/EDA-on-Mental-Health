@@ -124,7 +124,7 @@ We have plenty of ideas for what to do next:
 mental-health-eda/  
 │── data/  
 │── images/  
-│── mental-health-eda.ipynb  
+│── notebooks/ 
 │── README.md  
 
 ---
