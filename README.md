@@ -121,11 +121,10 @@ We have plenty of ideas for what to do next:
 
 ## Project Structure  
 
-mental-health-eda/  
+EDA-on-Mental-Health/  
 │── data/  
 │── images/  
-│── notebooks/
-
+│── notebooks/  
 │── README.md  
 
 ---
