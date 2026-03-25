@@ -122,7 +122,7 @@ We have plenty of ideas for what to do next:
 ## Project Structure  
 
 EDA-on-Mental-Health/  
-│── data/  
+│── dataset/  
 │── images/  
 │── notebooks/  
 │── README.md  
