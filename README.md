@@ -40,7 +40,7 @@ This data is typically gathered using standard psychological scales (like the DA
 
 ## Tools Used
 
-To keep things simple and effective, we used:
+To keep things simple and effective, I used:
 
 * **Python**: The core language for our work.
 * **Pandas & NumPy**: For organizing and cleaning the data.
@@ -50,7 +50,7 @@ To keep things simple and effective, we used:
 
 ## Data Cleaning & Preprocessing
 
-Before starting the analysis, we had to get the data ready:
+Before starting the analysis, I had to get the data ready:
 
 - Handled missing values to ensure data completeness  
 - Removed duplicate survey responses to maintain data integrity  
@@ -61,7 +61,7 @@ Before starting the analysis, we had to get the data ready:
 
 ## Exploratory Data Analysis
 
-Here is how we explored the data:
+Here is how I explored the data:
 
 - Distribution analysis of age, demographics, and mental health indicators  
 - Comparative analysis across COVID phases and age groups  
@@ -108,7 +108,7 @@ This study highlights the significant impact of COVID-19 on mental health, parti
 
 ## Future Work
 
-We have plenty of ideas for what to do next:
+I have plenty of ideas for what to do next:
 
 * Figure out which specific factors have the biggest impact.
 * Find larger and more diverse datasets to improve accuracy.
