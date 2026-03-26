@@ -5,9 +5,6 @@
 The objective of this project is to explore and analyze mental health data to identify patterns and relationships between key psychological factors such as depression, anxiety, and stress, along with demographic and lifestyle attributes.
 
 ---
-## Acknowledgment
-
-I would like to sincerely thank **Prof. Zakir Hussain** for his guidance and support in helping me understand the dataset, including the meaning and relevance of various features and column names used in this analysis.
 
 ## Dataset
 I am using a survey-based dataset that tracks various mental health indicators. The dataset was obtained from ([Mendeley Data][1]) and has been used for analysis after appropriate preprocessing.
@@ -134,6 +131,12 @@ EDA-on-Mental-Health/
 1. Clone this repository to your computer.
 2. Open the `.ipynb` file in Jupyter Notebook or upload it to Google Colab.
 3. Run the cells in order to see the results.
+
+---
+
+## Acknowledgment
+
+I would like to sincerely thank **Prof. Zakir Hussain** for his guidance and support in helping me understand the dataset, including the meaning and relevance of various features and column names used in this analysis.
 
 ---
 
