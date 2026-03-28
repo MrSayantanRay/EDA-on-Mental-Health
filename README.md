@@ -13,6 +13,17 @@ The dataset utilized in this project is a cleaned and transformed version of the
 
 [1]:https://data.mendeley.com/datasets/45g49shf4v/1
 
+---
+
+## How to Run
+
+1. Clone this repository or download the datasets and `.ipynb` files into your computer. Open the `.ipynb` file in Jupyter Notebook or upload it to Google Colab.
+2. Load `02_adult mental health in indian metro cities 2001-2021 (reformed_checkpoint).csv` into `EDA_on_Mental_Health_part1(cleaning).ipynb` and run the cells.
+3. Load `03_adult mental health in indian metro cities 2001-2021 (cleaned).csv` into `EDA_on_Mental_Health_part2(Analysis).ipynb` and run the cells.
+5. Run the cells in order to see the results.
+
+---
+
 ### What's inside the data:
 
 The dataset is a survey-based collection of responses capturing:
@@ -123,14 +134,6 @@ EDA-on-Mental-Health/
 │── images/  
 │── notebooks/  
 │── README.md  
-
----
-
-## How to Run
-
-1. Clone this repository to your computer.
-2. Open the `.ipynb` file in Jupyter Notebook or upload it to Google Colab.
-3. Run the cells in order to see the results.
 
 ---
 
